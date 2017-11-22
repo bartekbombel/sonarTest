@@ -15,8 +15,9 @@ public class JasperDisplay extends HttpServlet {
     public static String token, dateFrom, dateTo, author;
     private static Date creationTime;
     private static int type, minDuration;
-    private static  Long klnId, adnId, gpzId, uztId;
-//adnId 63301
+    private static Long klnId, adnId, gpzId, uztId;
+
+    //adnId 63301
     //gpz 5754
     //uztId = 87608
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {

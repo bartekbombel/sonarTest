@@ -3,8 +3,8 @@
 <head>
     <title>Title</title>
 </head>
-    <body style="margin: 0px;">
-        <iframe style="border: 0px;" width="100%" height="100%" src="./report">
-        </iframe>
-    </body>
+<body style="margin: 0px;">
+<iframe style="border: 0px;" width="100%" height="100%" src="./report">
+</iframe>
+</body>
 </html>

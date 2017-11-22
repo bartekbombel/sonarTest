@@ -8,7 +8,7 @@ public class testClass {
     JasperDisplay jasper = new JasperDisplay();
 
     @Test
-    public void test(){
+    public void test() {
         jasper.createToken();
         assertTrue(jasper.token != null);
     }

@@ -2,9 +2,9 @@
 <html>
 <head>
     <title>Ważność raportu wygasła</title>
- </head>
+</head>
 <body>
-    <h1>Ważność raportu wygasła</h1>
+<h1>Ważność raportu wygasła</h1>
 <script type="text/javascript"> alert("Ważność raportu wygasła"); </script>
 </body>
 </html>
